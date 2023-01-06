@@ -1,8 +1,7 @@
 # UTNW: Unix Tools for Native Windows
 
 A collection of several Linux utilities compiled with `mingw-w32` for native Windows
-support. The simple Inno Setup-based installer should add a bit of Unix to your Windows
-system.
+support.
 
 Examples include:
 
@@ -19,10 +18,10 @@ a pull request. It will be accepted if it's useful enough.
 
 If it's someone else's program, follow the program's license.
 
-You can also install the program to `C:\UTNW\bin`, the home of Unix utilities installed
-to your system.
+You can also install the program to `C:\UTNW\bin`, the directory containing Unix utilities installed
+on your system.
 
 ## Support
 
-UTNW is tested on Windows 11. It should also work on Windows 10, 8.1, and ReactOS, though
+UTNW is tested on Windows 11. It should also work on Windows 10 and others, though
 it should be tested yourself.
