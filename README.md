@@ -23,5 +23,5 @@ on your system.
 
 ## Support
 
-UTNW is tested on Windows 11. It should also work on Windows 10 and others, though
+UTNW is tested on Windows 11. It should also work on Windows 10, though
 it should be tested yourself.
