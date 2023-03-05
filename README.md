@@ -1,3 +1,9 @@
+# WARNING!
+
+UTNW is sometimes identified as a trojan by some anti-virus programs. This is not
+correct. It is recommended to disable your anti-virus program before installing
+UTNW.
+
 # UTNW: Unix Tools for Native Windows
 
 A collection of several Linux utilities compiled with `mingw-w32` for native Windows
